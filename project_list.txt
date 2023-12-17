@@ -1,0 +1,32 @@
+Tre's To-Do List
+-----------------------
+Step 1 - information and resource gathering
+- gather all json model files
+- gather all texture files
+- gather a list of all CIT items needing to be added
+
+--- gain a list of crafting recipes for each item ---
+
+
+Step 2 - chunking
+- break item list into sections and organize files as needed
+- identify multiblock items, set aside
+- identify chest block items, set aside
+
+---- note all non-perfect cube block dimensions for later ----
+
+
+Step 3 - basic block additions
+- add blocks to registry that are just place and break items
+- data gen files
+- test place and break all items
+
+
+Step 4 - chest entity block additions
+
+
+Step 5 - multi-block entity additions
+
+
+Step 6 - tile functionality
+- add functionality to the blanket racks, saddle pad racks, etc. to hold tack items.
